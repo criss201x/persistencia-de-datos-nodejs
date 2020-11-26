@@ -1,0 +1,14 @@
+{
+  "name": "persistencia_de_datos",
+  "version": "1.0.0",
+  "description": "ejercicios de practica con node js y mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "cristian alape",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.16"
+  }
+}
